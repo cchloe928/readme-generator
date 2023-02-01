@@ -73,7 +73,7 @@ inquirer
         console.log(response)
         const markdown = generateMarkdown(response)
         console.log(markdown)
-        fs.writeFileSync('readme.md',markdown)
+        fs.writeFileSync('./dist/readme.md',markdown)
 
     })
 
