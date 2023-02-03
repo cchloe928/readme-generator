@@ -1,14 +1,13 @@
 
-# Username
 
+# Username
 
 ## Title
 
-
 ## Description
 
-
 ## Table of Contents (Optional)
+
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -32,7 +31,7 @@
 🏆 
 
 ## Badges
-![license](https://img.shields.io/badge/license-f-green)
+![license](https://img.shields.io/badge/license-harvard-green)
 
 
 ## Features
@@ -42,5 +41,4 @@
 
 
 ## Tests
-
 
