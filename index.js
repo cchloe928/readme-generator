@@ -13,16 +13,6 @@ inquirer
             name: 'username',
         },
         {
-            type: 'password',
-            message: 'what is your password?',
-            name: 'password',
-        },
-        {
-            type: 'password',
-            message: 'Re-enter password to confirm:',
-            name: 'confirm',
-        },
-        {
             type: 'input',
             message: 'what is the title?',
             name: 'title',
@@ -77,26 +67,3 @@ inquirer
 
     })
 
-    // .then((response) => {
-    //     console.log("~file: indexedDB.js:22 ~ .then ~ response", response);
-    //     return response.confirm === response.password
-    //     ? console.log('Success!')
-    //     :console.log('You forgot your password')
-    // });
-
-
-
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
-
-
-
-
-// TODO: Create a function to initialize app
-function init() { }
-
-
-
-
-// Function call to initialize app
-init();
